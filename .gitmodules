@@ -1,0 +1,6 @@
+[submodule "fkg_web_client"]
+	path = fkg_web_client
+	url = git@github.com:01speed1/fkg_web_client.git
+[submodule "fkg_api"]
+	path = fkg_api
+	url = git@github.com:01speed1/fkg_api.git
