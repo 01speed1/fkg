@@ -60,6 +60,10 @@ fastapi-app/
 
 https://www.psycopg.org/psycopg3/docs/basic/usage.html
 
+despues de luchas con los endpoint en python,no me voy a complicar con la vista, voy hacer que cargue primero el login, si ya esta auth que cargue la interfaz de de reporte, luego volvera a la api para agregar los endpoint y poder guardar y consultar los reportes
+
+agregar las diferentes vistas por roles, 
+
 ---
 
 ---

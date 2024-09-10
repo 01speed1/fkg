@@ -51,7 +51,7 @@ Quiero crear pruebas para una función "signup_user" que valide que se puede reg
 ```
 
 ```
-
+@workspace quiero crear un dev container para una app que use vite react y typescript
 ```
 
 ```
