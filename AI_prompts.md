@@ -55,11 +55,11 @@ Quiero crear pruebas para una función "signup_user" que valide que se puede reg
 ```
 
 ```
-
+@workspace ahora para el nuevo grupo de endpoint que voy a agregar, voy a trabajar con /api/v1/support_reports, la idea con este endpoint es que sea privado, así que debe validar que el cliente mande el bearer token, que reciba un "title", "details", un "user_reporter_id", que se sacara de la información tras validar el token, regrese un "case created" y si falta algún dato que falle adecuadamente, me gusta el TDD así que montemos primero el archivo de pruebas
 ```
 
 ```
-
+@workspace puedes generar el css para que esta ul y li se vena como barras con pun poco de resalta que las distinga del fondo, que esten centrados ocupen por ahi el 70% de la vista si esta en escritorio y el 95 en movil, que request.title, y request status esten en span cada uno y que se separen a cada extremo usando flexbox
 ```
 
 ```
