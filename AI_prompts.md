@@ -63,5 +63,19 @@ Quiero crear pruebas para una función "signup_user" que valide que se puede reg
 ```
 
 ```
+@workspace  ayudame a documentar aqui en readme los detalles de esta api, me gustaria iniciar contando cual es su proposito, es una API que sive a un frontend para los casos de soporte que se puedan presentar, hay de 2 tipos "Soporte" y requerimientos de negocio
 
+es posible probar la API en el endpoint 
+https://fkg-api.onrender.com
+
+"recuerdame por aqui agregar" pantallazo de la documentacion que genera FastAPI
+
+a bueno agreguemos eso, es una API en python que utiliza el framework fastAPI se conectar a una DB Postgres
+```
+
+
+```
+```
+
+```
 ```
